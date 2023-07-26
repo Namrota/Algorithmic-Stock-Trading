@@ -2,7 +2,6 @@
 """
 Zerodha kiteconnect automated authentication
 
-@author: Mayank Rasu (http://rasuquant.com/wp/)
 """
 
 from kiteconnect import KiteConnect

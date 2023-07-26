@@ -2,7 +2,6 @@
 """
 Zerodha Kite Connect - Fetching Historical Data over extended duration
 
-@author: Mayank Rasu (http://rasuquant.com/wp/)
 """
 from kiteconnect import KiteConnect
 import os

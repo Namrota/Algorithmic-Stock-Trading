@@ -2,7 +2,6 @@
 """
 Zerodha Kite Connect Intro - Placing orders
 
-@author: Mayank Rasu (http://rasuquant.com/wp/)
 """
 from kiteconnect import KiteConnect
 import logging

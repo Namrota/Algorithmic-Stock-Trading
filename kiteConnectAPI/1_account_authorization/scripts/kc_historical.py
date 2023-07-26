@@ -2,7 +2,6 @@
 """
 Zerodha Kite Connect - Historical Data
 
-@author: Mayank Rasu (http://rasuquant.com/wp/)
 """
 from kiteconnect import KiteConnect
 import logging
